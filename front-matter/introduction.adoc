@@ -1,0 +1,106 @@
+[preface]
+== Introduction
+:doctype: book
+:sectnums:
+:toc: left
+:icons: font
+:source-highlighter: highlight.js
+
+[quote, Warren Buffett]
+____
+It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.
+____
+
+In the high-stakes world of technical interviews, your reputation—your personal brand—is established in a matter of minutes. While your resume might get you through the door, it's how you present yourself and your experiences that ultimately determines whether that door opens to a new opportunity or closes on a missed chance.
+
+=== What Are Behavioral Interviews?
+
+Behavioral interviews are structured conversations designed to evaluate how you've handled specific situations in your past professional life. They're based on a simple but powerful premise: past behavior is the best predictor of future performance.
+
+Unlike technical interviews that test what you know, behavioral interviews assess who you are—how you think, how you work with others, how you overcome challenges, and how you learn from experiences. They reveal the human behind the skills, the professional behind the code.
+
+In a behavioral interview, you'll be asked to provide detailed examples of how you've handled specific situations in your past work experience. These questions typically begin with phrases like:
+
+* "Tell me about a time when..."
+* "Describe a situation where..."
+* "Give me an example of..."
+* "How have you previously dealt with..."
+
+Your answers to these questions tell interviewers far more than whether you can solve a particular problem—they reveal how you approach problems in general, how you interact with team members, how you handle pressure, and how you learn and grow.
+
+=== Why Behavioral Interviews Matter to Big Tech
+
+For companies like Amazon, Google, Meta, and Microsoft, technical excellence is just the beginning. These organizations operate at massive scale, in complex environments, with diverse teams tackling unprecedented challenges. In such environments, how you work becomes as important as what you know.
+
+==== Amazon: Leadership Principles in Action
+
+Amazon's famous Leadership Principles aren't just wall decorations—they're the operational framework for decision-making throughout the company. When Amazon conducts behavioral interviews, they're explicitly evaluating how well your past behavior aligns with principles like Customer Obsession, Ownership, Invent and Simplify, and Earn Trust.
+
+For Amazon, behavioral interviews aren't supplementary to technical evaluation—they're equally critical. A candidate who demonstrates strong technical skills but fails to show alignment with Amazon's Leadership Principles is unlikely to succeed in their ecosystem.
+
+==== Google: Beyond "Googleyness"
+
+Google looks beyond technical prowess to what they sometimes call "Googleyness"—a combination of intellectual humility, conscientiousness, comfort with ambiguity, and evidence of taking thoughtful risks. Their behavioral questions probe for examples of how you've navigated ambiguous situations, collaborated across boundaries, and maintained effectiveness in rapidly changing environments.
+
+Google's emphasis on learning ability—what they call "general cognitive ability"—is assessed not just through problem-solving questions but through behavioral questions that reveal how you approach new challenges and incorporate new information.
+
+==== Meta: Building Social Value at Scale
+
+At Meta, behavioral interviews focus heavily on how candidates have contributed to building products that create social value at scale. Their questions often probe for examples of how you've made decisions that balanced competing priorities, how you've advocated for users, and how you've navigated complex ethical considerations.
+
+Meta particularly values examples that demonstrate your ability to move fast while maintaining high standards—showing how you've made impact while managing risk appropriately.
+
+==== Microsoft: Growth Mindset in Practice
+
+Microsoft's cultural transformation under Satya Nadella has emphasized growth mindset—the belief that abilities can be developed through dedication and hard work. Their behavioral interviews often look for evidence of how you've learned from failures, sought out feedback, and adapted to changing circumstances.
+
+Microsoft values examples that show how you've collaborated across organizational boundaries and contributed to others' success, not just your own.
+
+=== The Stakes Are High
+
+For candidates, the stakes of behavioral interviews couldn't be higher. At top tech companies:
+
+* Behavioral interviews typically account for 30-50% of the overall evaluation
+* A single poor behavioral interview can override strong technical performance
+* Compensation differences between levels can exceed $100,000 annually
+* The right behavioral presentation can tip the scales toward a higher initial level
+
+Yet despite these high stakes, most candidates underprepare for behavioral interviews, focusing the bulk of their preparation on technical questions. This imbalance creates both risk and opportunity—risk for the unprepared, but opportunity for those who master the art and science of behavioral interviewing.
+
+=== The STAR+ Framework: A Preview
+
+Throughout this book, we'll explore the STAR+ framework in depth—a powerful structure for crafting compelling behavioral interview responses:
+
+* *Situation*: The specific context, project, or challenge you faced
+* *Task*: Your specific responsibilities or objectives in that situation
+* *Action*: The specific steps you took to address the challenge
+* *Result*: The measurable outcomes of your actions
+* *Plus (Lessons Learned)*: What you learned and how you grew from the experience
+
+This enhanced version of the traditional STAR framework adds the critical reflection component that sophisticated interviewers increasingly expect. By explicitly articulating what you learned and how you've applied those lessons, you demonstrate the growth mindset and self-awareness that top companies value.
+
+In Chapter 3, we'll dive deep into this framework, exploring how to apply it effectively across different types of questions and different company contexts.
+
+=== Beyond Preparation: Authentic Communication
+
+While this book provides frameworks, examples, and preparation strategies, its ultimate goal is to help you communicate authentically. The best behavioral interview responses aren't rehearsed performances—they're thoughtful reflections on real experiences, organized and presented in a way that helps interviewers understand your unique value.
+
+The techniques in this book aren't about gaming the system or telling interviewers what they want to hear. They're about helping you identify your most relevant experiences and communicate them effectively, so interviewers can accurately assess whether there's a mutual fit between your capabilities and their needs.
+
+=== The Journey Ahead
+
+In the chapters that follow, we'll explore behavioral interviewing from every angle:
+
+* We'll examine the history and psychology behind behavioral interviewing
+* We'll step into the interviewer's shoes to understand what they're really looking for
+* We'll master the STAR+ framework for structuring compelling responses
+* We'll develop strategies for identifying your most powerful stories
+* We'll explore common pitfalls and how to avoid them
+* We'll create a systematic practice plan to build your interviewing muscles
+* We'll examine role-specific examples for different technical positions
+* We'll analyze company-specific approaches to behavioral assessment
+* We'll develop advanced strategies for handling ambiguous and unexpected questions
+
+By the end of this journey, you'll approach behavioral interviews not with anxiety but with confidence—not as obstacles to overcome but as opportunities to showcase the full range of your professional capabilities.
+
+Let's begin by understanding the foundations of behavioral interviewing—where it came from, how it works, and why it matters for your technical career.

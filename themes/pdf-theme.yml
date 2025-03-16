@@ -1,0 +1,50 @@
+extends: default
+page:
+  size: [6in, 9in]
+  margin: [1.1in, 0.67in, 0.85in, 1.1in]
+  margin-inner: 0.75in
+  margin-outer: 0.59in
+font:
+  catalog:
+    merge: false
+    Garamond:
+      normal: eb-garamond/EBGaramond-Regular.ttf
+      italic: eb-garamond/EBGaramond-Italic.ttf
+      bold: eb-garamond/EBGaramond-Bold.ttf
+      bold_italic: eb-garamond/EBGaramond-BoldItalic.ttf
+    FiraMono:
+      normal: monospace/FiraMono-Regular.ttf
+code:
+  font_family: FiraMono
+footer:
+  height: 1in
+  columns: =100%
+  line_height: 1
+  border_width: 0
+  border_color: transparent
+  recto:
+    center:
+      content: "*{page-number}*"
+  verso:
+    center:
+      content: "*{page-number}*"
+  padding: [25, 1, 0, 1]
+base:
+  font-family: Garamond
+  font-size: 11pt
+  line-height: 1.1
+  color: #333
+  text-align: left
+heading:
+  text-transform: uppercase
+heading-h1:
+  text-align: center
+  font-size: 24pt
+heading-h2:
+  font-size: 18pt
+heading-h3:
+  font-size: 14pt
+heading-h4:
+  font-size: 12pt
+thematic-break:
+  border-color: #333

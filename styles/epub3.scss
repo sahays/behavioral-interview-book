@@ -1,0 +1,36 @@
+.drop-cap {
+	float: left;
+	font-size: 2em; /* Adjust size as needed */
+	line-height: 1;
+	padding-right: 0.1em;
+	padding-top: 0.1em;
+}
+
+.text-center {
+	text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 2em;
+	padding-bottom: 4px;
+	border-bottom: 1px solid #333;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 1em;
+}

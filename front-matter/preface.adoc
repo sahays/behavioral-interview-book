@@ -1,0 +1,76 @@
+[preface]
+== Preface
+:doctype: book
+:sectnums:
+:toc: left
+:icons: font
+:source-highlighter: highlight.js
+
+[quote, Maya Angelou]
+____
+People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+____
+
+=== Why I Wrote This Book
+
+When I first stepped into the interview room at Amazon over a decade ago, I had no idea how profoundly that experience would shape my understanding of what truly matters in technical hiring. After years of conducting interviews, making hiring decisions, and eventually helping shape interview processes at Microsoft, I realized something crucial: technical brilliance alone rarely determines career success.
+
+The most successful engineers and leaders I've encountered share something beyond technical prowess—they excel at communicating their experiences, demonstrating their impact, and showcasing their growth mindset. Yet, I noticed a troubling pattern: exceptionally talented candidates were failing behavioral interviews not because they lacked experiences, but because they couldn't effectively articulate them.
+
+My journey continued with successful interviews at Google and Meta, where I gained further insight into how different tech giants evaluate candidates. This cross-company perspective revealed both the common threads and unique nuances in how behavioral assessment works across the industry.
+
+This book emerges from thousands of hours spent on both sides of the interview table. It represents the guidance I wish I'd had when I first faced these intimidating questions—and the wisdom I've gained from evaluating countless candidates since then.
+
+=== How This Book Is Different
+
+Most interview preparation resources fall into one of two categories: overly generic advice that lacks practical application, or collections of sample answers that encourage memorization rather than authentic preparation. This book takes a fundamentally different approach.
+
+==== Role-Specific Depth
+
+Rather than offering one-size-fits-all advice, this guide provides tailored strategies for Software Engineers, Engineering Managers, Solution Architects, and Program Managers. Each role demands different behavioral competencies, and this book addresses them with precision.
+
+==== Interviewer Insight
+
+Having evaluated hundreds of candidates at top tech companies, I provide unprecedented transparency into how interviewers think, what they're looking for, and how they score responses. Understanding the evaluation process from the inside transforms how you approach your preparation.
+
+==== Digital Resources Integration
+
+Throughout this book, you'll find references to downloadable worksheets, practice plans, and interactive tools designed to transform passive reading into active preparation. These resources bridge the gap between understanding concepts and applying them effectively in high-pressure interview situations.
+
+==== Comprehensive STAR+ Framework
+
+While many resources mention the STAR method, this book introduces the enhanced STAR+ framework, which adds the critical "Lessons Learned" component that sophisticated interviewers increasingly expect. This addition transforms good answers into exceptional ones by demonstrating your capacity for growth and self-reflection.
+
+=== Who This Book Is For
+
+This guide is specifically designed for:
+
+* Software Engineers preparing for behavioral interviews at Google, Meta, Amazon, Microsoft, and similar big-tech companies
+* Engineering Managers seeking to demonstrate leadership capabilities beyond technical management
+* Solution Architects and Program Managers navigating role-specific behavioral expectations
+* Experienced professionals looking to transition between technical leadership roles
+* Anyone seeking nuanced, detailed, and company-specific preparation guidance
+
+If you're looking for shortcuts or quick fixes, this isn't the resource for you. This book is for professionals committed to thorough preparation and authentic self-presentation—those who understand that mastering behavioral interviews isn't just about getting a job, but about developing career-long communication skills.
+
+=== How to Use This Book
+
+I recommend reading this book in sequence, as later chapters build upon concepts introduced earlier. However, if you're short on time, each chapter is designed to stand alone, allowing you to focus on areas where you need the most support.
+
+The exercises throughout aren't optional—they're essential components of effective preparation. Set aside dedicated time to complete them, ideally several weeks before your interviews begin.
+
+For maximum benefit, combine this book with practice partners who can provide feedback on your responses. While self-reflection is valuable, external perspective is irreplaceable.
+
+=== A Personal Note
+
+Behavioral interviews can feel artificial and constraining. Many brilliant engineers and leaders struggle with the format, not because they lack accomplishments, but because the structure feels unnatural. I understand this challenge intimately.
+
+My goal isn't to turn you into someone you're not, but to help you authentically communicate who you are and what you've accomplished. The frameworks in this book aren't meant to make you sound rehearsed—they're designed to help you organize your thoughts so your unique value shines through.
+
+Remember that behind every behavioral question is a simple human desire: interviewers want to understand who you are, how you work, and whether you'll thrive in their environment. This book will help you answer those fundamental questions with confidence and authenticity.
+
+Let's begin.
+
+[.text-right]
+_Sanjeet Sahay_
+_March 2025_

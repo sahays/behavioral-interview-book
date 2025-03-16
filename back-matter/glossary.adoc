@@ -1,0 +1,147 @@
+[preface]
+= Glossary
+:toclevels: 1
+:icons: font
+:source-highlighter: highlight.js
+
+== A
+
+=== Adaptability
+The ability to adjust effectively to changing conditions, requirements, or approaches. In behavioral interviews, adaptability is often assessed through questions about handling unexpected challenges or changes in direction.
+
+=== Amazon Leadership Principles (LPs)
+A set of 16 principles that guide Amazon's culture, decision-making, and behavioral interview process. These include Customer Obsession, Ownership, Invent and Simplify, Are Right A Lot, Learn and Be Curious, Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality, Earn Trust, Dive Deep, Have Backbone; Disagree and Commit, Deliver Results, Strive to be Earth's Best Employer, and Success and Scale Bring Broad Responsibility.
+
+=== Ambiguous Questions
+Interview questions that can be interpreted in multiple ways or lack sufficient context to determine a clear response approach. These questions assess a candidate's ability to seek clarification, make reasonable assumptions, and navigate uncertainty.
+
+== B
+
+=== Behavioral Competencies
+Specific skills, attributes, or capabilities that can be demonstrated through past behavior. Examples include leadership, problem-solving, collaboration, and customer focus.
+
+=== Behavioral Interview
+An interview approach that uses questions about past experiences to predict future performance. Behavioral interviews are based on the premise that past behavior is the best predictor of future behavior.
+
+=== Bias for Action
+A tendency to act decisively rather than delaying for perfect information. This is one of Amazon's Leadership Principles and is valued by many technology companies that prioritize speed and execution.
+
+== C
+
+=== Clarification
+The process of seeking additional information or context to better understand an interview question. Effective clarification demonstrates thoughtfulness rather than confusion.
+
+=== Competency-Based Interview
+Another term for behavioral interview, focusing on specific competencies required for a role.
+
+=== Cultural Alignment
+The degree to which a candidate's values, working style, and priorities match a company's cultural framework. Cultural alignment is often assessed through behavioral questions.
+
+=== Customer Obsession
+A deep focus on understanding and meeting customer needs. This is one of Amazon's Leadership Principles and is valued by many technology companies.
+
+== D
+
+=== DEPTH Framework
+A framework for responding to follow-up questions in behavioral interviews: Details on demand, Evaluate alternatives, Personal reflection, Transfer to new contexts, Honest limitations.
+
+=== Dive Deep
+The ability to understand details and operate at all levels. This is one of Amazon's Leadership Principles and is often assessed in technical behavioral interviews.
+
+== E
+
+=== Engineering Manager
+A leadership role responsible for guiding engineering teams, typically combining technical expertise with people management skills. Behavioral interviews for this role often focus on team leadership, technical decision-making, and organizational impact.
+
+== F
+
+=== FAANG
+An acronym referring to prominent technology companies: Facebook (now Meta), Apple, Amazon, Netflix, and Google. Often used to describe top-tier technology employers with rigorous interview processes.
+
+=== Follow-up Questions
+Additional questions asked after a candidate's initial response to probe for deeper understanding, test authenticity, or explore alternative scenarios.
+
+== G
+
+=== Googleyness
+A term used at Google to describe cultural attributes valued in candidates, including comfort with ambiguity, intellectual humility, collaborative orientation, and user focus.
+
+=== Growth Mindset
+The belief that abilities can be developed through dedication and hard work. This mindset is particularly valued at Microsoft and is often assessed through questions about learning from challenges or failures.
+
+== H
+
+=== Hypothetical Questions
+Questions that ask candidates to describe how they would handle a situation they haven't actually experienced. These differ from behavioral questions, which focus on past experiences.
+
+== I
+
+=== Impact
+The measurable effect or outcome of actions taken. In behavioral interviews, candidates are often expected to quantify the impact of their examples.
+
+=== Interviewer Calibration
+The process of ensuring consistent evaluation standards across different interviewers, often through shared rubrics and assessment criteria.
+
+== L
+
+=== Leadership Principles (LPs)
+See Amazon Leadership Principles.
+
+== M
+
+=== Meta (formerly Facebook)
+A technology company known for its cultural values of Move Fast, Be Bold, Focus on Impact, Be Open, and Build Social Value. These values influence their behavioral interview approach.
+
+=== Microsoft
+A technology company known for its cultural emphasis on Growth Mindset and Model-Coach-Care leadership approach, which influences their behavioral interview process.
+
+== O
+
+=== Ownership
+Taking responsibility for outcomes and acting on behalf of the entire organization rather than just immediate responsibilities. This is one of Amazon's Leadership Principles and is valued by many technology companies.
+
+== P
+
+=== Program Manager
+A role responsible for coordinating complex initiatives across multiple teams or functions. Behavioral interviews for this role often focus on stakeholder management, execution excellence, and strategic thinking.
+
+=== Probing Questions
+Follow-up questions designed to test the depth of a candidate's experience or thinking. These questions often reveal more about a candidate than their initial responses.
+
+== R
+
+=== Role-Specific Questions
+Behavioral questions tailored to assess competencies particularly relevant to a specific role, such as Software Engineer, Engineering Manager, Solution Architect, or Program Manager.
+
+== S
+
+=== Situation
+The first component of the STAR format, describing the context and circumstances of the example being shared.
+
+=== Software Engineer
+A technical role focused on designing, developing, and maintaining software systems. Behavioral interviews for this role often assess technical decision-making, problem-solving, and collaboration.
+
+=== Solution Architect
+A technical role focused on designing system architectures and technical solutions for complex problems. Behavioral interviews for this role often assess technical vision, customer focus, and business value orientation.
+
+=== STAR Format
+A structured approach to answering behavioral questions: Situation, Task, Action, Result. This format helps ensure complete and organized responses.
+
+=== STAR+ Format
+An enhanced version of the STAR format that adds "Plus" (lessons learned) to the traditional structure: Situation, Task, Action, Result, Plus. This format demonstrates reflection and growth orientation.
+
+=== Structured Interview
+An interview approach where all candidates are asked the same questions and evaluated using consistent criteria, reducing bias and improving assessment quality.
+
+== T
+
+=== Task
+The second component of the STAR format, describing the specific responsibility or challenge the candidate faced in their example.
+
+=== Technical Behavioral Questions
+Behavioral questions focused on technical decision-making, problem-solving, or leadership in technical contexts.
+
+== V
+
+=== Values-Based Questions
+Behavioral questions designed to assess alignment with specific company values or cultural attributes.

@@ -1,0 +1,17 @@
+graph TD
+    Start --> Situation[Clearly describe situation]
+    Situation --> Task[Explain the task/problem]
+    Task --> Action[Detail the specific actions you took]
+    Action --> Result[Highlight concrete results]
+    Result --> Lessons[Summarize key lessons learned]
+    Lessons --> End[Conclude effectively]
+
+    %% Styling
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef highlight fill:#d4f1f9,stroke:#333,stroke-width:2px;
+    classDef result fill:#d5e8d4,stroke:#82b366,stroke-width:2px;
+    classDef lessons fill:#ffe6cc,stroke:#d79b00,stroke-width:2px;
+    
+    class Situation,Task,Action default;
+    class Result result;
+    class Lessons lessons;

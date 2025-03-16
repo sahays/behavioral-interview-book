@@ -1,0 +1,37 @@
+sequenceDiagram
+    participant Interviewer
+    participant Candidate
+    
+    Interviewer->>Candidate: Ask behavioral question
+    Note over Candidate: Apply STAR+ format
+    Candidate->>Interviewer: Provide initial response (Situation)
+    Candidate->>Interviewer: Continue response (Task)
+    Candidate->>Interviewer: Continue response (Action)
+    Candidate->>Interviewer: Continue response (Result)
+    Candidate->>Interviewer: Continue response (Lessons Learned)
+    
+    Note over Interviewer: Evaluate response and prepare follow-up
+    
+    Interviewer->>Candidate: Ask probing follow-up question
+    Note over Candidate: Apply DEPTH framework
+    Candidate->>Interviewer: Provide Details on demand
+    
+    Interviewer->>Candidate: Challenge assumption in response
+    Note over Candidate: Use Balanced Consideration approach
+    Candidate->>Interviewer: Acknowledge validity of challenge
+    Candidate->>Interviewer: Explain context and trade-offs
+    
+    Interviewer->>Candidate: Ask about alternative scenarios
+    Note over Candidate: Use Principled Adaptation approach
+    Candidate->>Interviewer: Identify core principles
+    Candidate->>Interviewer: Explain specific adaptations
+    
+    Interviewer->>Candidate: Ask about application to their company
+    Note over Candidate: Use Principled Transfer approach
+    Candidate->>Interviewer: Connect experience to new context
+    
+    Note over Interviewer,Candidate: Evaluation based on complete exchange, not just initial response
+    
+    %% Styling
+    style Interviewer fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style Candidate fill:#f5f5f5,stroke:#333,stroke-width:1px
