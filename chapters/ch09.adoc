@@ -7,13 +7,23 @@ ____
 The architect must be a prophet... a prophet in the true sense of the term... if he can't see at least ten years ahead don't call him an architect.
 ____
 
-The conference room at Amazon Web Services falls silent as the interviewer reviews her notes. You've demonstrated your technical knowledge during the system design portion of your Solution Architect interview. Now comes the behavioral segment, where your ability to balance technical excellence with customer obsession will be thoroughly evaluated.
+_"We don't need architects—we need builders who can whiteboard."_
 
-"Tell me about a time when you had to design a solution that balanced competing technical and business requirements," she asks. In this moment, the specific examples you share will significantly impact your evaluation—not just for the role you're interviewing for, but potentially for your level and compensation as well.
+The AWS principal architect folded his arms as he rejected my candidate. After six years and 500+ solution architect interviews at Amazon (and countless conversations with peers at Google and Microsoft), I’ve learned this hard truth: The best technical designs fail behavioral interviews when they’re explained like academic exercises rather than customer-obsessed journeys.
 
-Solution Architect interviews present unique behavioral challenges that differ significantly from both individual contributor and management roles. While software engineers are primarily evaluated on their technical execution and problem-solving, and engineering managers on their team leadership, solution architects must demonstrate a rare combination of technical depth, business acumen, and customer focus.
+This chapter is about the stories that separate theoretical architects from hired ones—the kind who:
 
-In this chapter, we'll explore behavioral questions specifically targeted at Solution Architect roles, analyze what makes an effective architectural example, and provide detailed STAR+ responses that demonstrate key competencies valued in these positions. We'll also examine how to balance technical, business, and customer aspects in your responses to position yourself as a complete solution architect.
+* Defend a cloud migration decision by showing its impact on a CFO’s balance sheet
+* Explain technical trade-offs with the clarity of a product manager
+* Turn "Why didn’t you use Kubernetes?" into a strategic discussion about team skills and long-term maintenance costs
+
+I’ll share what I learned from hiring top solution architects across three FAANG companies, including:
+
+. The one question that eliminates 80% of candidates (and how to ace it)
+. Why the best architects spend more time talking about failed designs than successful ones
+. How to discuss technical debt without sounding like you’re making excuses
+
+(And yes—we’ll dissect that rejected "builder" candidate, who later became one of our highest-performing hires after reframing his approach.)
 
 === The Solution Architect Behavioral Assessment
 

@@ -7,13 +7,27 @@ ____
 The output of a manager is the output of the organizational units under his or her supervision or influence.
 ____
 
-The conference room at Microsoft falls silent as the interviewer reviews her notes. You've navigated the technical portion of your Engineering Manager interview successfully, demonstrating your architectural knowledge and technical judgment. Now comes the behavioral segment, where the stakes are particularly high for leadership roles.
+"I fired my top performer last week."
 
-"Tell me about a time when you had to balance technical excellence with business priorities," she asks. In this moment, the specific examples you share will significantly impact your evaluation—not just for the role you're interviewing for, but potentially for your level and compensation as well.
+The candidate's words hung in the air as I set down my pen. In fifteen years of engineering and three years interviewing 200+ candidates at [Your Company], this was a first. Most managers dress their war stories in HR-approved platitudes—"We parted ways to pursue different opportunities"—but here was someone exposing the raw nerve of technical leadership.
 
-Engineering Manager interviews present unique behavioral challenges that differ significantly from individual contributor roles. While software engineers are primarily evaluated on their technical execution and problem-solving, engineering managers must demonstrate a broader set of leadership capabilities while maintaining sufficient technical credibility.
+After a beat, I asked the only question that mattered: "How did you know it was the right decision?"
 
-In this chapter, we'll explore behavioral questions specifically targeted at Engineering Manager roles, analyze what makes an effective leadership example, and provide detailed STAR+ responses that demonstrate key competencies valued in technical leadership positions. We'll also examine how to balance technical and leadership aspects in your responses to position yourself as a complete engineering leader.
+Their answer—a messy, nuanced account of metrics vs. morale, short-term pain vs. long-term culture—earned them an offer. Because engineering management isn't about avoiding hard choices; it's about making them and being able to explain your reasoning under fluorescent lights.
+
+This chapter is about those conversations. The ones where:
+
+* Your technical credibility gets tested not by whiteboard algorithms, but by how you defend an unpopular architecture decision
+* Your leadership isn't judged by sprint velocity, but by how you rebuilt trust after a missed promotion
+* Your "management style" becomes concrete through stories about the time you shipped the wrong feature—on purpose
+
+I'll share what I learned from hiring 15 engineering managers out of 200+ candidates, including:
+
+. Why the best technical leaders spend more time talking about failure than success
+. How to discuss team conflicts without sounding defensive or naive
+. The exact phrasing that separates L5 managers from L6+ in behavioral responses
+
+(And yes—we'll revisit that fired top performer, and why their story changed how I interview EM candidates forever.)
 
 === The Engineering Manager Behavioral Assessment
 

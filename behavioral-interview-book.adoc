@@ -3,10 +3,11 @@
 :email: sanjeet@leaderhub.io
 :doctype: book
 :toc: macro
-:toclevels: 3
-// :sectnums:
+:toclevels: 2
+:sectnums: 
+:sectnumlevels: 2
 :epub3-stylesdir: styles
-:front-cover-image: image:images/behavioral-interview-cover.png[fit=fill]
+:front-cover-image: image:images/behavioral-book.png[fit=fill]
 :pdf-themesdir: themes
 :pdf-theme: pdf-theme.yml
 :pdf-fontsdir: fonts
@@ -65,9 +66,11 @@ include::chapters/ch13.adoc[]
 
 // Back Matter
 
+include::back-matter/about.adoc[]
+
 include::back-matter/epilogue.adoc[]
 
-// include::back-matter/glossary.adoc[]
+
 
 // include::back-matter/epilogue.adoc[]
 

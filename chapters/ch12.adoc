@@ -7,7 +7,7 @@ ____
 In preparing for battle I have always found that plans are useless, but planning is indispensable.
 ____
 
-The interview room at Google falls silent as the interviewer leans forward with an enigmatic smile. You've navigated the technical portions successfully and prepared meticulously for standard behavioral questions. But now comes a question that wasn't in any of your preparation materials:
+The virtual interview room at Google falls silent as the interviewer leans forward with an enigmatic smile. You've navigated the technical portions successfully and prepared meticulously for standard behavioral questions. But now comes a question that wasn't in any of your preparation materials:
 
 "Tell me about a time when you had to make a decision with no clear right answer."
 

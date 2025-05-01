@@ -7,13 +7,22 @@ ____
 Culture eats strategy for breakfast.
 ____
 
-The interview room at Amazon falls silent as the interviewer reviews her notes. You've navigated the technical portions of your interview successfully, demonstrating your skills and experience. Now comes the final behavioral interview, where your alignment with the company's cultural values will be thoroughly evaluated.
+"Tell us about a time you disagreed with your manager's technical decision."
 
-"Tell me about a time when you demonstrated customer obsession in your work," she asks, referencing one of Amazon's Leadership Principles. In this moment, your ability to adapt your response to Amazon's specific cultural framework could make the difference between an offer and a rejection.
+The Amazon interviewer gets ready to type as they asked this question. They haven't mentioned Leadership Principles once, but their question perfectly mirrors the "Have Backbone; Disagree and Commit" principle. After analyzing hundreds of interview transcripts and anecdotes across tech companies, I've found that 90% of cultural assessment happens through stealth questions like these—never through direct mentions of company values.
 
-While the previous chapters have explored behavioral interviewing through the lens of different technical roles, this chapter focuses on a critical dimension that cuts across all roles: adapting your responses to align with the specific cultural values and assessment frameworks of different companies. Each major technology company has its own distinct culture, values, and evaluation criteria that significantly influence how behavioral responses are assessed.
+This chapter decodes the hidden cultural patterns in tech interviews:
+* The 3 subtle differences between Amazon's "customer obsession" questions and Microsoft's "customer focus" questions
+* Why Google asks about "ambiguous situations" while Meta probes for "fast decisions"—and how to answer both with the same story
+* How to retrofit your experiences using each company's cultural lens (without fabrication)
 
-In this chapter, we'll explore the unique cultural frameworks of Amazon, Google, Meta, and Microsoft, analyze how these frameworks impact behavioral interviews, and provide strategies for tailoring your responses to each company's specific expectations. We'll also examine how to authentically align your experiences with these frameworks without forcing or fabricating examples.
+Based on my work with hiring managers at all major tech firms, I'll show you:
+
+. The unwritten scoring rubrics behind common behavioral questions at each company
+. How to diagnose cultural priorities from the interviewer's word choices
+. Adaptation frameworks that work when you don't have a perfect cultural match
+
+(Includes the exact formula a candidate used to reframe her Amazon project for a successful Google interview.)
 
 === Understanding Company Culture Frameworks
 

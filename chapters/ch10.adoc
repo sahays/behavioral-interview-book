@@ -7,13 +7,21 @@ ____
 Plans are only good intentions unless they immediately degenerate into hard work.
 ____
 
-The conference room at Microsoft falls silent as the interviewer reviews her notes. You've navigated the technical portion of your Program Manager interview successfully, demonstrating your understanding of product development and execution processes. Now comes the behavioral segment, where your ability to drive complex initiatives through influence and stakeholder management will be thoroughly evaluated.
+"Your Gantt chart is beautiful. Now tell me about the time it blew up."
 
-"Tell me about a time when you had to manage a complex program with multiple stakeholders and competing priorities," she asks. In this moment, the specific examples you share will significantly impact your evaluation—not just for the role you're interviewing for, but potentially for your level and compensation as well.
+The Amazon Principal PM leaned back, waiting for my candidate’s answer. After years of working closely with hiring managers across FAANG—including hundreds of late-night conversations with my Principal PM mentor at Amazon—I’ve learned this brutal truth: *Program Managers get hired for their ability to recover from disaster, not prevent it.*
 
-Program Manager interviews present unique behavioral challenges that differ significantly from both technical and management roles. While software engineers are primarily evaluated on their technical execution, and engineering managers on their team leadership, program managers must demonstrate exceptional stakeholder management, prioritization skills, and the ability to drive results through influence rather than direct authority.
+This chapter is about the messy reality behind polished program plans—the stories that separate theoretical PMs from hired ones:
 
-In this chapter, we'll explore behavioral questions specifically targeted at Program Manager roles, analyze what makes an effective program management example, and provide detailed STAR+ responses that demonstrate key competencies valued in these positions. We'll also examine how to balance execution focus with strategic thinking in your responses to position yourself as a complete program management professional.
+* How you convinced an engineering team to work weekends after your timeline miscalculation
+* Why you canceled a $2M initiative three months in (and how you sold it to leadership)
+* The spreadsheet hack that saved a launch when your project management tool failed
+
+I’ll share what I learned from watching top PMs navigate these make-or-break moments, including:
+
+. The one interview answer that makes hiring managers sit up straighter (used by 90% of L6+ hires)
+. Why the best PMs talk about failed milestones more than successful ones
+. How to discuss stakeholder conflicts without sounding like you’re assigning blame
 
 === The Program Manager Behavioral Assessment
 

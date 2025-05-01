@@ -7,11 +7,11 @@ ____
 Talk is cheap. Show me the code.
 ____
 
-The interview room at Google falls silent as the interviewer reviews her notes. You've just completed the technical portion—a challenging algorithm problem that you navigated successfully. Now comes the behavioral segment. "Tell me about a time when you had to make a difficult technical decision with significant trade-offs," she asks.
+There are two kinds of software engineers in behavioral interviews: those who say “We optimized the API” and those who explain why they chose Redis over Memcached for the cache layer at 3 AM during a production fire. After conducting enough interviews to recognize the distinct scent of nervous sweat in our meeting rooms, I learned one truth: technical skill gets you the interview, but how you talk about your work gets you the job.
 
-In this moment, the specific examples you share will significantly impact your evaluation. While the frameworks and preparation strategies we've explored in previous chapters apply to all technical roles, software engineers face unique behavioral interview challenges that require tailored examples and approaches.
+The difference isn’t raw ability—it’s whether you can dissect a technical decision with the precision of a senior engineer defending a controversial pull request. Over three years and 200+ interviews at Amazon, I saw brilliant coders fail because they treated behavioral questions like a formality, while less experienced candidates won offers by telling specific, thoughtful stories about their mistakes and trade-offs.
 
-In this chapter, we'll explore behavioral questions specifically targeted at software engineers, analyze what makes an effective software engineering example, and provide detailed STAR+ responses that demonstrate key competencies valued in engineering roles. We'll also examine the nuanced balance between technical depth and behavioral evidence that distinguishes exceptional software engineering interviews from merely adequate ones.
+_This chapter is about bridging that gap._ We'll explore behavioral questions specifically targeted at software engineers, analyze what makes an effective software engineering example, and provide detailed STAR+ responses that demonstrate key competencies valued in engineering roles. We'll also examine the nuanced balance between technical depth and behavioral evidence that distinguishes exceptional software engineering interviews from merely adequate ones.
 
 === The Software Engineer Behavioral Assessment
 

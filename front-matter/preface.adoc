@@ -23,7 +23,11 @@ This book emerges from thousands of hours spent on both sides of the interview t
 
 === How This Book Is Different
 
-Most interview preparation resources fall into one of two categories: overly generic advice that lacks practical application, or collections of sample answers that encourage memorization rather than authentic preparation. This book takes a fundamentally different approach.
+Most interview preparation resources fall into one of two categories: overly generic advice that lacks practical application, or collections of sample answers that encourage memorization rather than authentic preparation. 
+
+This book takes a fundamentally different approach.
+
+I have written this book in a way that applies to all companies, big and small, that use behavioural interviews as a tool to hire the best candidates. You may think, ah a new book from yet another FAANG (or MANGA or Big Seven or whatever is the acronym for the US-based big tech companies this week) fanboy. But seriosly, I have used numerious examples from the big tech companies because that's where I come from.
 
 ==== Role-Specific Depth
 

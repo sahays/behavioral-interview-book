@@ -1,0 +1,81 @@
+[preface]
+= About the Author
+
+*Sanjeet Sahay*
+
+image:images/sanjeet-headshot.jpeg[Sanjeet Sahay,width=100]
+
+Sanjeet is the founder and CEO of LeaderHub, and former Amazon engineering and architecture leader with 20+ years in tech. He is a best-selling author, AI-apps developer, interview and career coach, and a prolific course- and content creator. Sanjeet lives in Redmond.
+
+_Sanjeet's other best selling books_
+
+image:images/no-nonsense.png[The No-Nonsense Guide to Beating Burnout,width=100]
+
+The No-Nonsense Guide to Beating Burnout (https://a.co/d/i4L1Ww9)
+
+image:images/sa-book.jpeg[Solutions Architect Interview,width=100]
+
+Solutions Architect Interview (https://a.co/d/6UUG0D6)
+
+image:images/generative-ai-book.jpg[Solutions Architect Interview,width=100]
+
+Generative AI for Software Developers (https://a.co/d/fRa74lM)
+
+Contact Sanjeet at:
+
+* Email (sanjeet@leaderhub.io)
+* LinkedIn (https://www.linkedin.com/in/sanjeetsahay/)
+* Twitter (https://x.com/sanj33ts)
+* Website (https://leaderhub.io/contact-us)
+
+*Saurabh Shrivastava*
+
+image:images/saurabh-headshot.jpeg[Saurabh Shrivastava,width=100]
+
+Saurabh is a renowned inventor, author, and technology leader with over 20 years of IT experience. Currently serving as a Solutions Architect Leader at Amazon Web Services (AWS), he empowers global consulting partners and enterprise customers in their cloud transformation journey. Saurabh has played a pivotal role in establishing global technical partnerships, defining visionary strategies for his team, and fostering the growth of new strategic initiatives. His expertise has earned him a patent in cloud platform automation.
+
+Saurabh's portfolio of books including Generative AI for Software Developers and Solutions Architect Interview here: (https://tinyurl.com/3drpnbed)
+
+As a thought leader and public speaker, Saurabh has shared his insights through various blogs and white papers, covering a wide range of technology domains such as big data, IoT, machine learning, and cloud computing. His passion lies in exploring the latest innovations and understanding their impact on society and everyday life. Among his notable works is the acclaimed book "Solution Architect's Handbook" and "AWS for Solutions Architect," both available on Packt and Amazon.com. This comprehensive book addresses a significant industry gap, drawing from Saurabh's personal experiences and learnings to deliver a relatable and informative read for individuals from diverse backgrounds. It equips readers with invaluable knowledge to succeed as Solutions Architects and unlocks a world of boundless possibilities.
+
+Prior to joining AWS, Saurabh held diverse roles in the IT services industry and R&D space, specializing in enterprise application design, cloud service management, and orchestration. His multifaceted expertise and rich industry experience have shaped him into a prominent figure in the technology landscape.
+
+* LinkedIn (https://www.linkedin.com/in/saurabhtechleader/)
+
+*Abhishek Soni*
+
+image:images/abhishek-headshot.jpeg[Abhishek Soni,width=100]
+
+Abhishek is a seasoned technology leader with over two decades of experience spanning
+cloud architecture, enterprise strategy, and customer success. With a career rooted in deep
+technical expertise and a passion for enabling organizational transformation, Abhishek has
+helped numerous global enterprises modernize their IT landscapes, adopt cloud-native
+architectures, and build scalable, cost-efficient systems.
+
+Currently serving as a Customer Engineer at Google Cloud, Abhishek works with a wide
+spectrum of clients to design impactful technology strategies using GCP services. Prior to his
+role at Google, he spent several years at Amazon Web Services (AWS), where he held pivotal
+roles including Senior Solutions Architect and Senior Technical Consultant. At AWS, he
+contributed extensively to customer success through architectural reviews, migration strategies,
+and enablement initiatives, earning accolades such as the Customer Obsession Award.
+
+Abhishek’s technical background includes deep expertise in databases, analytics, and cloud
+platforms, with certifications across both GCP and AWS, including specialties in databases,
+analytics, and cloud architecture. He has architected critical workloads across industries like
+finance, logistics, insurance, and telecommunications. His work has been featured in AWS
+Prescriptive Guidance and blog posts on topics ranging from SQL performance optimization to
+integrating AI services with legacy infrastructure.
+
+Beyond his technical accomplishments, Abhishek is recognized for his ability to engage with
+C-level stakeholders, lead cross-functional teams, and serve as a trusted advisor. His career
+has given him a front-row seat to how organizations hire and scale technical teams — including
+how behavioral interviewing techniques play a critical role in finding not just the most qualified
+candidates, but the right ones.
+
+This unique blend of hands-on technical leadership, people-centric consulting, and hiring insight
+positions Abhishek as a credible and thoughtful voice on behavioral interviewing. In this book,
+he draws on years of real-world experience mentoring engineers, supporting hiring panels, and
+working across complex organizational dynamics to offer a structured, practical approach to
+mastering behavioral interview questions — for both interviewers and candidates
+
+* LinkedIn (https://www.linkedin.com/in/abhishek-soni-877a76117/)
