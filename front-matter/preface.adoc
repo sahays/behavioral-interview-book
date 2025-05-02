@@ -29,19 +29,19 @@ This book takes a fundamentally different approach.
 
 I have written this book in a way that applies to all companies, big and small, that use behavioural interviews as a tool to hire the best candidates. You may think, ah a new book from yet another FAANG (or MANGA or Big Seven or whatever is the acronym for the US-based big tech companies this week) fanboy. But seriosly, I have used numerious examples from the big tech companies because that's where I come from.
 
+==== Deep insider insights
+
+The authors: Sanjeet, Abhishek, and Saurabh have a combined 50+ years of experience with 20+ years at big tech companies. They collectively interviewed 3000+ candidates and hired 500+ for Amazon and Google. Saurabh has been a master interviewer called "Bar Raiser" at Amazon for more than 5 years. So yes, we know what we are talking about: how its done and what is needed.
+
 ==== Role-Specific Depth
 
 Rather than offering one-size-fits-all advice, this guide provides tailored strategies for Software Engineers, Engineering Managers, Solution Architects, and Program Managers. Each role demands different behavioral competencies, and this book addresses them with precision.
-
-==== Interviewer Insight
-
-Having evaluated hundreds of candidates at top tech companies, I provide unprecedented transparency into how interviewers think, what they're looking for, and how they score responses. Understanding the evaluation process from the inside transforms how you approach your preparation.
 
 ==== Digital Resources Integration
 
 Throughout this book, you'll find references to downloadable worksheets, practice plans, and interactive tools designed to transform passive reading into active preparation. These resources bridge the gap between understanding concepts and applying them effectively in high-pressure interview situations.
 
-==== Comprehensive STAR+ Framework
+==== 100+ questions and scenarios
 
 While many resources mention the STAR method, this book introduces the enhanced STAR+ framework, which adds the critical "Lessons Learned" component that sophisticated interviewers increasingly expect. This addition transforms good answers into exceptional ones by demonstrating your capacity for growth and self-reflection.
 

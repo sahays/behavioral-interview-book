@@ -1,5 +1,5 @@
-= Acing Behavioural Interviews: Winning tips to crack the most important part of the interviews
-:author: Sanjeet Sahay
+= Acing Behavioural Interviews: Actionable Interview Insights from Amazon and Google Insiders
+:author: Sanjeet Sahay, Abhishek Soni, Saurabh Shrivastava
 :email: sanjeet@leaderhub.io
 :doctype: book
 :toc: macro
