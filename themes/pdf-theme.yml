@@ -16,6 +16,21 @@ font:
       normal: monospace/FiraMono-Regular.ttf
 code:
   font_family: FiraMono
+# header:
+#   height: 1in
+#   columns: =100%
+#   line_height: 1
+#   border_width: 0
+#   border_color: transparent
+#   font-size: 7pt
+#   color: #eaeaea
+#   recto:
+#     center:
+#       content: "Copyright @ 2025 BitMaple - Licensed to anarquias.666@gmail.com - Redistribution and Resale Prohibited"
+#   verso:
+#     center:
+#       content: "Copyright @ 2025 BitMaple - Licensed to anarquias.666@gmail.com - Redistribution and Resale Prohibited"
+#   padding: [25, 1, 0, 1]
 footer:
   height: 1in
   columns: =100%
